@@ -1,0 +1,1 @@
+According to the Facebook Apps and Websites Platform rules, we have to provide User Data Deletion Callback URL or Data Deletion Instructions URL. If you want to delete your activities for the HIKEArmenia website, you can remove them by following the instructions below.
